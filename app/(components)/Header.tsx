@@ -17,7 +17,7 @@ export const Header: FC = () => {
         </h1>
         <div className="flex gap-4 items-center">
           <a
-            href="http://github.com"
+            href="https://github.com/landeda/battery-health"
             target="_blank"
             title="Source code"
             aria-label="Source code"
